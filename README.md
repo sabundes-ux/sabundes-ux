@@ -1,16 +1,19 @@
-## Hi there 👋
+# sabundes-ux
 
-<!--
-**sabundes-ux/sabundes-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Santiago Abundes y soy un diseñador en crecimiento 
 
-Here are some ideas to get you started:
+Email: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+santi_adc@hotmail.com
+santiagoadeco@gmail.com
+sabundes@centro.edu.mx
+
+
+## Perfil
+Estudio *Comuncicación Visual* en 
+***Centro, Diseño, Cine y Televisón***
+
+Tengo 22 años y en el momento estoy en proceso de aprender las bases del código para poder integrarlo en mi portafolio de habilidades para poderme convertir un un creador y poder utilizar mis habilidades de una manera digital.
+
+Estoy aprendiendo a utilizar, Visual Studio Code y Touchdesigner
+
